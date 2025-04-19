@@ -40,8 +40,8 @@
   position: absolute;
   color: white;
   font-size: 7rem;
-  top: 150px;
-  left: 25%;
+  top: 375px;
+  left: 35%;
   overflow: hidden;
 }
 
@@ -49,7 +49,7 @@
   position: absolute;
   color: blue;
   font-size: 7rem;
-  bottom: 180px;
-  left: 25%;
+  bottom: 405px;
+  left: 35%;
   overflow: hidden;
 }
